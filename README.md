@@ -11,14 +11,14 @@ This project performs a complete data analysis pipeline on the Iris dataset, inc
 - Apply clustering to group similar data points
 - Compare clustering results with actual species labels
 
----
+
 
 ## Data Cleaning
 - Checked for missing values
 - Verified data types
 - Ensured dataset consistency
 
----
+
 
 ## Exploratory Data Analysis (EDA)
 - Descriptive statistics (mean, median, standard deviation)
@@ -34,7 +34,7 @@ This project performs a complete data analysis pipeline on the Iris dataset, inc
 - Sepal features have more overlap
 - Petal length and width are highly correlated
 
----
+
 
 ## Clustering 
 
@@ -55,7 +55,7 @@ This project performs a complete data analysis pipeline on the Iris dataset, inc
 ###  Evaluation:
 - Compared clusters with actual species using cross-tabulation
 
----
+
 ### Technologies Used
 - Python
 - Pandas
